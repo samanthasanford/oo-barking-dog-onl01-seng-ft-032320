@@ -13,4 +13,4 @@ class Dog
 end
 
 max = Dog.new
-max.bark
+max.name = "Max"
