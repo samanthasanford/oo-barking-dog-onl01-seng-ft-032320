@@ -11,6 +11,3 @@ class Dog
     puts "Woof!"
   end
 end
-
-max = Dog.new
-max.name = "Max"
