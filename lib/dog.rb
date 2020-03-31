@@ -11,3 +11,6 @@ class Dog
     puts "Woof!"
   end
 end
+
+max = Dog.new
+max.bark
